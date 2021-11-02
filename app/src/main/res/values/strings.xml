@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testHttpUrlConnect</string>
+    <string name="info">weather</string>
+</resources>
